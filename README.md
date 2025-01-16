@@ -83,8 +83,6 @@ GEN::
    v
 [Display Stats]         --> [Show key generation stats (speed, total keys)]
 
-   |
-   v
 [End]
 
 HOPE SO YOU WILL FIND SOMETHING SUPER SOON AND DONATE SOME 
