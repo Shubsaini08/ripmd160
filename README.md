@@ -30,62 +30,67 @@ HII  guys, its ME : (shub) again bring up again something that isnt gonna help o
 
 Ripmd160-gen.cpp ??..... [CMD,LINUX]
 
-'''
 > g++ -o genrip160.exe ripmd160-gen.cpp -std=c++17 -lssl -lcrypto -lsecp256k1 -pthread
-'''
+
 > g++ -o genrip160 ripmd160-gen.cpp -std=c++17 -lssl -lcrypto -lsecp256k1 -pthread
-'''
+
 
 ripemd_extraction.cpp ??..... [CMD,LINUX]
 
-'''
+
 > g++ -std=c++17 -pthread -o re160.exe ripemd_extraction.cpp
-'''
+
 > g++ -std=c++17 -pthread -o re160 ripemd_extraction.cpp
-'''
+
 
 ripmd160-match.cpp  ??..... [CMD,LINUX]
 
-'''
+
 > g++ -o genrip160-match.exe ripmd160-match.cpp -std=c++17 -lssl -lcrypto -lsecp256k1 -pthread
-'''
+
 > g++ -o genrip160-match ripmd160-match.cpp -std=c++17 -lssl -lcrypto -lsecp256k1 -pthread
-'''
+
 
 [HOPE THIS MUCH GONNA HELP ?? IF NOT CHANNELS LINKS PROVIDED BELOW]
 
 ## WORKFLOW ::
 
-'''
+
 GEN::
 [Start]
+
    |
    v
 [Check dependencies]
+
    |
    v
 [Generate Private Key]  --> [Randomly generate 32-byte private key]
+
    |
    v
 [Generate Public Key]   --> [Create compressed/uncompressed public keys from private key using secp256k1]
+
    |
    v
 [Generate Hashes]       --> [Use OpenSSL to hash the public key with SHA256 + RIPEMD160]
+
    |
    v
 [Save Data]             --> [Save the private key and hashes to a file (FOUNDripmd.txt)]
+
    |
    v
 [Display Stats]         --> [Show key generation stats (speed, total keys)]
+
    |
    v
 [End]
-'''
 
 HOPE SO YOU WILL FIND SOMETHING SUPER SOON AND DONATE SOME 
 
 # DOORS are always open for DONATIONS 
-========================================
+
 # HOPE IT WILL HELP
 [FOR ANY QUESTIONS TEXT US AT]
 
@@ -97,7 +102,17 @@ HOPE SO YOU WILL FIND SOMETHING SUPER SOON AND DONATE SOME
 > 
 > [GITHUB LINK FOR MORRE](https://github.com/Shubsaini08)
 
+FOR DONATIONS : 
 
+# CONTACT :: 
+> US THROUGH DRIECT MESSAGES OR BY MAILING US :: keyfoundhunt4ever@gmail.com
+> 
+> OR DIRECT MESSAGE ON TELE : @Shub_saini08
+>
+> THANK YOU FOR READING THIS DOCUMENTATION
+
+HAVE A WONDERFULL DAY STAY BLESSED HOPE YOU WILL HIT SOME(MONEY) SOON......
+BYE !!
 
 
 
