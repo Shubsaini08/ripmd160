@@ -5,8 +5,14 @@ HII  guys, its ME : (shub) again bring up again something that isnt gonna help o
 1. genrip.exe
    > generates and saves the outputs into a file !!
 
+![ripgen](https://github.com/user-attachments/assets/30fd36a1-a802-4a75-b392-78383f87170e)
+
+
 3. re160.exe
     > splits the ripmd hashes from file and save ripmd hashes in diff file !!
+
+    ![re160](https://github.com/user-attachments/assets/bae42cc5-ba72-44c7-bf32-c5e914c7f361)
+
 
 5. genrip160-match.exe
    > idk i dont trust computer to match  and generate at same time but it is accurate  generates and match and will gonna save the findings into a file  !!
@@ -84,6 +90,10 @@ GEN::
 [Display Stats]         --> [Show key generation stats (speed, total keys)]
 
 [End]
+
+![table](https://github.com/user-attachments/assets/1b958f09-8c24-4087-8903-d5c9e927f5b3)
+
+
 
 HOPE SO YOU WILL FIND SOMETHING SUPER SOON AND DONATE SOME 
 
